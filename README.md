@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivam456th
 - 👀 I’m interested in Coding and building algorithm 💻
-- 🌱 I’m currently learning DSA ✨
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Backend ✨
+- 💞️ I’m looking to collaborate on Google 🤫
 - 📫 How to reach me shivamthapa792@gmail.com
 - 😄 Pronouns: HE 🙎🏻‍♂
 - ⚡ Fun fact: Karna ko uske mahaan daan aur vachan ke liye jaana jata hai. Jab bhi koi usse kuch maangta, to wo bina soche-samjhe de diya karta tha. Mahabharat ke yudh ke dauran bhi, Indra ne usse uska kavach aur kundal maange jo Karna ne bina jhijhak ke de diye.🏹
